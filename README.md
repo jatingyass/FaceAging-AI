@@ -127,9 +127,8 @@ MIT License — free to use, modify, and distribute.
 
 ## Contact
 
-**Saksham Pathak**
+**Jatin**
 Master’s in Artificial Intelligence & Machine Learning, IIIT Lucknow
-[GitHub](https://github.com/parthmax2) | [LinkedIn](https://linkedin.com/in/sakshampathak) | [Instagram](https://instagram.com/parthmax_)
 
 ---
 
